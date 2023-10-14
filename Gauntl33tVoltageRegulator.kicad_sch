@@ -2012,7 +2012,7 @@
     (uuid 948f202a-e6e8-498a-b6b5-3ca15d0aee80)
     (property "Reference" "L1" (id 0) (at 78.74 43.9588 0))
     (property "Value" "54.4uH" (id 1) (at 78.74 41.4219 0))
-    (property "Footprint" "Inductor_SMD:L_10.4x10.4_H4.8" (id 2) (at 78.74 39.116 0)
+    (property "Footprint" "Inductor_SMD:L_Vishay_IHLP-5050" (id 2) (at 78.74 39.116 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 39.116 0)
@@ -2666,7 +2666,7 @@
       (reference "JP4") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/948f202a-e6e8-498a-b6b5-3ca15d0aee80"
-      (reference "L1") (unit 1) (value "54.4uH") (footprint "Inductor_SMD:L_10.4x10.4_H4.8")
+      (reference "L1") (unit 1) (value "54.4uH") (footprint "Inductor_SMD:L_Vishay_IHLP-5050")
     )
     (path "/455026a6-62a3-4a7d-bf27-1c82203abe5a"
       (reference "R1") (unit 1) (value "1 Ω") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
