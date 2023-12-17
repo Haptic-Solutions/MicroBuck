@@ -157,7 +157,7 @@
       (net 12 "Net-(IC1-Pad5)") (pinfunction "1") (pintype "input") (tstamp ae77285f-46a6-4fda-aa08-b34970e09fb5))
     (pad "2" smd rect (at 5.715 0) (size 3.175 3.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "/Vreg") (pinfunction "2") (pintype "input") (tstamp a12e80ee-eab3-4551-a90d-f1a23429562b))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHLP-5050.wrl"
+    (model "C:/Users/peter/Downloads/SRP1265CC-4R7M.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2439,7 +2439,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp b82adbad-40f8-437c-8785-fe20e99e2250) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -2453,7 +2453,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp bc120109-f6cc-4ecc-ba33-202fbca41b95) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -9714,7 +9714,7 @@
   (zone (net 0) (net_name "") (layer "In2.Cu") (tstamp 7f28b35e-80c8-4a9e-9ad7-4561edad4a5e) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -11713,7 +11713,7 @@
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp b217597a-1f8c-461d-8d70-7ea7f9ff6feb) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -11737,7 +11737,7 @@
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp cdf3d940-429d-4d6b-ad1f-7829d6e4039d) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
