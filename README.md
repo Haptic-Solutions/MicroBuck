@@ -23,3 +23,5 @@ Warning: Higher Amperage draw will cause the board to reach temperatures not sui
 
 If you would like to purchase one from us you can find it on our website here:
 https://hapticsol.com/power-electronics/micro-buck
+
+Data Sheet: https://hapticsol.com/s/Micro-Buck-V0_0-Datasheet.pdf
