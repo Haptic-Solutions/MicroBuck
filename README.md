@@ -20,3 +20,6 @@ Enable/Disable pin for switching side with optional pull up/down resistor pads.
 VReady pin from switching side for sensitive electronics.
 
 Warning: Higher Amperage draw will cause the board to reach temperatures not suitable for direct skin contact. An enclosure to prevent direct contact and a heatsink with sufficient cooling air should be used to reduce working temperature.
+
+If you would like to purchase one from us you can find it on our website here:
+https://hapticsol.com/power-electronics/micro-buck
