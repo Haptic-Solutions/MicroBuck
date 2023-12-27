@@ -22,6 +22,6 @@ VReady pin from switching side for sensitive electronics.
 Warning: Higher Amperage draw will cause the board to reach temperatures not suitable for direct skin contact. An enclosure to prevent direct contact and a heatsink with sufficient cooling air should be used to reduce working temperature.
 
 If you would like to purchase one from us you can find it on our website here:
-https://hapticsol.com/power-electronics/nano-buck
+https://hapticsol.com/power-electronics/micro-psu
 
-Data Sheet: https://hapticsol.com/s/Nano-Buck-V0_0-Datasheet.pdf
+Data Sheet: https://hapticsol.com/s/Micro-PSU-V0_0-Datasheet.pdf
